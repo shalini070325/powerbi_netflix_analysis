@@ -17,7 +17,6 @@ The raw data was provided in Excel format and transformed in Power BI.
 
 ## Tools & Technologies
 - Power BI
-- Power Query
 - DAX
 - Data Modeling
 
@@ -46,3 +45,4 @@ The raw data was provided in Excel format and transformed in Power BI.
 This project demonstrates exploratory data analysis using Power BI,
 highlighting the ability to transform entertainment data into clear,
 interactive insights through effective visual storytelling.
+
